@@ -1,2 +1,1 @@
-# analytics-system-design-mvp
-A repository for the system design MVP project
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
