@@ -1,0 +1,16 @@
+fastapi
+scrapy
+beautifulsoup4
+kafka-python
+pandas
+numpy
+apache-airflow
+boto3
+minio
+elasticsearch
+neo4j
+docker
+kubernetes
+pyspark
+aws-lambda
+graphql
